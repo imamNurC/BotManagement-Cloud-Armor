@@ -1,21 +1,19 @@
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Bot%20Management%20with%20Google%20Cloud%20Armor%20and%20reCAPTCHA/gsp877.sh
 
+###===================================================================Runner 1
 
-
+curl -LO raw.githubusercontent.com/imamNurC/BotManagement-Cloud-Armor/main/firewall.sh
 
 sudo chmod +x firewall.sh
-
 
 ./firewall.sh
 
 
 
+###===================================================================Runner 2
 
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Bot%20Management%20with%20Google%20Cloud%20Armor%20and%20reCAPTCHA/gsp877.sh
 
-
+curl -LO raw.githubusercontent.com/imamNurC/BotManagement-Cloud-Armor/main/templates.sh
 
 sudo chmod +x templates.sh
-
 
 ./templates.sh
