@@ -17,3 +17,39 @@ curl -LO raw.githubusercontent.com/imamNurC/BotManagement-Cloud-Armor/main/templ
 sudo chmod +x templates.sh
 
 ./templates.sh
+
+###===================================================================Runner 2
+
+
+curl -LO raw.githubusercontent.com/imamNurC/BotManagement-Cloud-Armor/main/templates.sh
+
+sudo chmod +x templates.sh
+
+./templates.sh
+
+###===================================================================Runner 2
+
+
+curl -LO raw.githubusercontent.com/imamNurC/BotManagement-Cloud-Armor/main/templates.sh
+
+sudo chmod +x templates.sh
+
+./templates.sh
+
+###===================================================================Runner 2
+
+
+curl -LO raw.githubusercontent.com/imamNurC/BotManagement-Cloud-Armor/main/templates.sh
+
+sudo chmod +x templates.sh
+
+./templates.sh
+
+###===================================================================Runner 2
+
+
+curl -LO raw.githubusercontent.com/imamNurC/BotManagement-Cloud-Armor/main/templates.sh
+
+sudo chmod +x templates.sh
+
+./templates.sh
