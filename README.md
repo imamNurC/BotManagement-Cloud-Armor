@@ -13,6 +13,13 @@ In this lab, you configure an HTTP Load Balancer with a backend, as shown in the
 
 <sub>architecture </sub>
 
+Below is Sequence to do that :
+
+firewall.sh -> templates.sh -> HttpLoadbalancer.sh -> DeploySessionToken.sh -> rules.sh -> validates.sh
+
+
+
+
 ### Ikuti Instruksi di bawah ini !
 
 ```
