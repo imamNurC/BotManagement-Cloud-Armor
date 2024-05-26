@@ -11,6 +11,7 @@ In this lab, you configure an HTTP Load Balancer with a backend, as shown in the
 
 ![cloud armor](https://cdn.qwiklabs.com/2kXQgNWkDCt0e9E84gvWp1ZIZrQg5kdhgkF2uWghtlI%3D)
 
+<sub>architecture </sub>
 
 ### Ikuti Instruksi di bawah ini !
 
