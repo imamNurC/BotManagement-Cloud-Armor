@@ -15,7 +15,7 @@ In this lab, you configure an HTTP Load Balancer with a backend, as shown in the
 
 Below is Sequence to do that :
 
-firewall.sh -> templates.sh -> HttpLoadbalancer.sh -> DeploySessionToken.sh -> rules.sh -> validates.sh
+firewall.sh -> templates.sh -> HttpLoadbalancer.sh -> DeploySessionToken.sh -> PolicyRules.sh -> validates.sh
 
 
 
